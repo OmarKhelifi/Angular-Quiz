@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "QuizAngular"
+  "cli": {
+    "analytics": "51324efe-48be-4c44-8480-fa7ce43d3758"
+  }
 }
